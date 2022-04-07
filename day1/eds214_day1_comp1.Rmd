@@ -1,0 +1,19 @@
+---
+title: "R Markdown Syntax"
+author: "Scout Leonard"
+date: "8/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#another eay to insert an image
+#knitr::include_graphics("images/sweater.jpg")
+```
+Adding a line to test my github key!
+
+another new line! 
+
